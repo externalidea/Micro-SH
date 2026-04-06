@@ -1,4 +1,4 @@
-# MICRO_SH
+# Micro_sh
 
 Minimalistic shell written in C. Project is written for educational purposes.
 
